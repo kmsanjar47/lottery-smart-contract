@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "firstFunction",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"first.sol": "firstContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"first.sol": {
+			"keccak256": "0x8350a8d971e6a166ae54e38d1404500cce51f5b9ab42cf5f7bb8f61beda7963c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://98089f9e7f7bb822d5f87f77fe67977f63b6393f9f17dc787332276f2a16cd0b",
+				"dweb:/ipfs/Qmc2nu6yp5RrdXMb7VAJV641SUVrKDa8xT94z57T1giCVU"
+			]
+		}
+	},
+	"version": 1
+}
